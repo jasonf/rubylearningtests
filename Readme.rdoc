@@ -8,7 +8,7 @@ To run the tests, just issue the following:
 
    ruby all_learning_tests.rb
 
-The value is not watching the tests pass, the value is that each test I add, I gain a bit more insight about ruby and how the internals work.  I don't expect this repo to be useful to anyone else other than myself.
+The value is not watching the tests pass, the value is that with each test I add, I gain a bit more insight about ruby and how the internals work.  I don't expect this repo to be useful to anyone else other than myself.
 
 == Credit
 
