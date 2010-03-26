@@ -1,0 +1,15 @@
+= Rubylearningtests
+
+These are a bunch of tests that I've started putting together to document aspects of ruby.
+
+== Running Tests
+
+To run the tests, just issue the following:
+
+   ruby all_learning_tests.rb
+
+The value is not watching the tests pass, the value is that each test I add, I gain a bit more insight about ruby and how the internals work.  I don't expect this repo to be useful to anyone else other than myself.
+
+== Credit
+
+The idea for this repo came from an article written by Mike Clark: http://clarkware.com/cgi/blosxom/2005/03/18
